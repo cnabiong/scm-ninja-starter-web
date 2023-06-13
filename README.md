@@ -13,6 +13,7 @@ Sample website 1 with plenty of files for demos
 ## How To Contribute
 
 Sample contribute steps to be added here.
+1. Please fork this repository and then issue pull request.
 
 ## Deployment
 
