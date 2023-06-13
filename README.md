@@ -18,3 +18,6 @@ Sample contribute steps to be added here.
 
 Add deployment guide here. Updated deployment guide.
 
+### Copyright
+
+2023 Git Training
