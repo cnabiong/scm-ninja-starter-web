@@ -16,6 +16,7 @@ Sample contribute steps to be added here.
 1. Please fork this repository and then issue pull request.
 2. Step 2 
 3. Step 3
+4. Step 4
 
 ## Deployment
 
