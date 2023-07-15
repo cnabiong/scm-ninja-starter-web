@@ -25,4 +25,4 @@ Add deployment guide here. Updated deployment guide.
 
 ### Copyright
 
-2023 Git Training
+2023 Git Training. All righs reserved.
